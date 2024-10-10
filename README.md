@@ -1,5 +1,5 @@
 # Gyros zelf maken; dat doe je zo
-![](gyrogyros-zelf-maken-5665-1536x1152.jpg)
+! [](gyrogyros-zelf-maken-5665-1536x1152.jpg)
 ## Benodigheden
 * 500-600 gram schouderkarbonade
 * 2 eetlepels gyroskruiden
